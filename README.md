@@ -18,5 +18,5 @@
 `#include <DynamixelShield.h>`
 
 ---
-*Red Chair at UC Irvine*
+*Quiet in the library*
 ![film](000012340039.jpg)
