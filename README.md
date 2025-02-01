@@ -13,7 +13,7 @@
 
 > "Get comfortable being uncomfortable"
 
-[My portfolio] (https://suhyoonbeom.github.io/)
+[My portfolio](https://suhyoonbeom.github.io/)
 
 `#include <DynamixelShield.h>`
 
