@@ -12,7 +12,7 @@
 ### `nano file`, `cat file`, `cp file file1`, `mv file file2`, `rm file2`
 ![4](4.png)
 ---
-### `man uname` & `uname -a`
+### `clear`, `man uname`, `uname -a`
 ![5](5.png)
 ---
 ### `man uname` output
