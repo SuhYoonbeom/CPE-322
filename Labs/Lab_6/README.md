@@ -1,9 +1,12 @@
-# Lab 3 - Python
+# Lab 6 - Node.js and Pystache
 
-### `cd ~/iot`, `cd *3`, `python3 julian.py`, `python3 date_example.py`
+### `node -v`, `npm -v`, `node -h`
 ![1](1.png)
 ---
-### `python3 datetime_example.py` & `python3 time_example.py`
+### `hello-world.js`, `hello.js`, `http.js`
 ![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
 ---
 
