@@ -1,9 +1,6 @@
-# Lab 3 - Python
+# Lab 5 - Paho-MQTT
 
-### `cd ~/iot`, `cd *3`, `python3 julian.py`, `python3 date_example.py`
+### `subcpu.py`& `pubcpu.py` in separate terminals
 ![1](1.png)
----
-### `python3 datetime_example.py` & `python3 time_example.py`
-![2](2.png)
----
+
 
