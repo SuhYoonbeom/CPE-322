@@ -7,9 +7,9 @@
 5. Goat
 
 ## Highest Climbing Grades
-- 5.11 on toprope
-- 5.10 on lead
-- V5 on boulder
+- 5.12 on toprope
+- 5.11 on lead
+- V6 on boulder
 
 > "Get comfortable being uncomfortable"
 
